@@ -1,5 +1,5 @@
 # TO-DO-List-
-Sure, here's a basic README template for a ToDo list web app using HTML, CSS, and JavaScript:
+ Here's a basic  ToDo list web app using HTML, CSS, and JavaScript:
 
 ---
 
